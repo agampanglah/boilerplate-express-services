@@ -1,0 +1,12 @@
+{
+    "env":{
+        "APP_URL"   : "<YOUR APP URL>", // http://localhost:9001
+        "JWT_KEY"   : "lok@sim4p3nt3rpr!s3",
+        "DB_HOST"   : "<YOUR DB HOST>", // localhost
+        "DB_PORT"   : "<YOUR DB PORT>", // 5432
+        "DB_NAME"   : "<YOUR DB NAME>", // db_v1_lokasi
+        "DB_USER"   : "<YOUR DB USERNAME>", // postgres
+        "DB_PWD"    : "<YOUR DB PASSWORD>" // postgres
+        "POSTGRESQL_CONNECTION" : "<YOUR CONNECTIONS URL POSTGRESS>"
+    }
+}
